@@ -3,15 +3,15 @@
 ## Description
 
 I was 'contracted' by Horiseon, a company specializing in online marketing, to bring their codebase
-in line with accesibility standards and ensure it was optimised for search engines. 
+in line with accessibility standards and ensure it was optimized for search engines. 
 
-First, I gave the page a proper title and replaced the '<div>' tags used throughout the website with semantic tags implemnted in HTML 5. Second, I took advantage of that change to organize and consolidate the associated CSS code. Third, I added alt titles for all image content included in the HTML file, aiming to be concise while still conveying the story Horiseon intended the images to tell. Finally, I improved the readability of the code by adding comments and ensuring the syntax was consistent.
+First, I gave the page a proper title and replaced the '<div>' tags used throughout the website with semantic tags implemented in HTML 5. Second, I took advantage of that change to organize and consolidate the associated CSS code. Third, I added alt titles for all image content included in the HTML file, aiming to be concise while still conveying the story Horiseon intended the images to tell. Finally, I improved the readability of the code by adding comments and ensuring the syntax was consistent.
 
-The new codebase meets Horiseon's requirements for the present, and will be easier to modify in the future.
+The new codebase meets Horiseon's requirements for the present and will be easier to modify in the future.
 
 ## 'Installation'/Usage
 
-The site can be accessed at [https://mavn2.github.io/horiseon/](https://mavn2.github.io/horiseon/). 
+The site can be accessed at [https://mavn2.github.io/Horiseon/](https://mavn2.github.io/Horiseon/). 
 The codebase is stored in the Horiseon repository on my Github page, [https://github.com/mavn2](https://github.com/mavn2).
 
 ## Tests
@@ -20,7 +20,7 @@ The alt titles can be tested by simply cloning the repository, removing the imag
 
 ## Credits
 
-Thanks to everyone associated with the UW Fullstack Development Bootcamp, too many to list. 
+Thanks to everyone associated with the UW Full Stack Development Bootcamp, too many people to list here. Really, thank you, it's been great so far.
 Thanks to the excellent CSS/HTML guides at W3 Schools.
 
 ## License
